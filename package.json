@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "cmd2": "./my_data.js",
-    "cmd3": "./my_game.js"
+    "cmd1": "./my_data.js",
+    "cmd2": "./my_game.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
