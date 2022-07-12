@@ -1,0 +1,26 @@
+{
+  "name": "node_dz2-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cmd2": "./my_data.js",
+    "cmd3": "./my_game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleman74/NODE_DZ2-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleman74/NODE_DZ2-1/issues"
+  },
+  "homepage": "https://github.com/aleman74/NODE_DZ2-1#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
